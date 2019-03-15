@@ -1,4 +1,5 @@
-// const URL = "https://my-little-cors-proxy.herokuapp.com/https://anapioficeandfire.com/api/characters/?page=1&pageSize=50";
+//
+//  const URL = "https://my-little-cors-proxy.herokuapp.com/https://anapioficeandfire.com/api/characters/?page=1&pageSize=50";
 let allCharactersArray = [];
 
 function urlForPage(pageNumber = 0) {
